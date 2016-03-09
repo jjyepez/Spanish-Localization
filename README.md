@@ -1,4 +1,6 @@
-# Chinese-Localization
+# Spanish-Localization
+Intentaré adicionar el idioma español / castellano a este plugin
+--
 Simplified Chinese and Traditional Chinese Translation for Sublime Text 3. Support MainMenu TabMenu ContextMenu,etc.
 
 I try to support more languages. Now Japanese is partially supported.
