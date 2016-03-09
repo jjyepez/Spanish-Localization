@@ -23,7 +23,11 @@ LANGS = {
     "EN": {
         "zipfile": "EN.zip",
         'syntax_md5sum': "2667c3fe5c1102274051920b1f581adb"
-    }
+    },
+    "ES": {
+        "zipfile": "ES.zip",
+        'syntax_md5sum': "2667c3fe5c1102274051920b1f581adb"
+    },
 }
 
 BLACK_LIST = (
